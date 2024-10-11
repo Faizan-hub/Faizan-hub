@@ -1,104 +1,117 @@
-# 👨‍💻 About Me
+# Faizan Riasat
 
-I am Faizan Riasat, a passionate Software Engineer with over two years of experience specializing in AI, machine learning, and full-stack development. I am currently pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen. My expertise lies in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying MLOps frameworks. I have successfully improved customer satisfaction by 10% through predictive analytics at Wateen Telecom.
+👨‍💻 **About Me**  
+I am Faizan Riasat, a passionate Software Engineer with over two years of experience in AI, machine learning, and full-stack development. I specialize in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying MLOps frameworks. Currently, I am pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen, Germany.
 
-## 🌐 Contact
+🌐 **Contact**  
+- Email: [riasatfaizan468@gmail.com](mailto:riasatfaizan468@gmail.com)  
+- LinkedIn: [Faizan Riasat](https://www.linkedin.com/in/faizan-riasat-36a08b175)
 
-- **Email**: [riasatfaizan468@gmail.com](mailto:riasatfaizan468@gmail.com)
-- **LinkedIn**: [Faizan Riasat](https://www.linkedin.com/in/faizan-riasat-36a08b175)
+💻 **Skills**  
 
-## 💻 Skills
-
-### Programming Languages
+### Programming Languages:
 - Python
 - JavaScript
 - Java
 - C++
+- C
 - MATLAB
 - R
 
-### Web Development
-- Django, Django REST
-- Express, Node.js
+### Web Development:
+- Django
+- Flask
+- Express
+- Node.js
 - Vue.js
-- Bootstrap
-- HTML5, CSS3
+- HTML5
+- CSS3
 
-### Data Science
-- TensorFlow, PyTorch
-- Scikit-learn, Pandas, Numpy
-- OpenCV
-- Power BI, Matplotlib, Seaborn, Tableau
-- Large Language Models
+### Data Science:
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
 
-### Databases
-- MySQL, PostgreSQL
-- SQLite, MongoDB
+### Databases:
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
 - Firebase
 
-### Version Control and Tools
-- Git, GitHub, GitLab
-- Docker, AWS, Azure
-- SQL, REST API
-- Postman, Markdown
+### Version Control and Tools:
+- Git
+- GitHub
+- GitLab
+- Docker
+- AWS
+- Azure
+- CI/CD
+- SQL
+- REST API
+- Ubuntu
+- Postman
+- Markdown
 
-### IDEs and Editors
+### IDEs and Editors:
 - Visual Studio Code
 - PyCharm
 
-## 📊 Current Experience
+📊 **Current Experience**  
 
-### 🖥️ Software Engineer @ SaniSure (Part-time)
-*Aug 2024 – Present, Göttingen, Germany (Hybrid)*
+### **Artificial Intelligence Engineer**  
+**Stealth Startup**  
+Heidelberg, Germany | Aug 2023 – May 2024  
+- Developed and deployed Tesseract OCR for extracting text from PDFs and images, integrating a large language model (LLM) to transform unstructured text into structured JSON format for downstream processing.
+- Implemented evaluation metrics such as Average Embedding Score and Extrema Score, optimizing chatbot responses using Google News vectors.
+- Conducted research and comparative analysis on OCR models from Hugging Face and Google Cloud, optimizing model selection for accuracy.
+- Assisted in designing a comprehensive mocking system for end-to-end testing, improving development efficiency.
 
-- Developed a data extraction system from PowerBI, optimizing material identification and automating pricing document creation, reducing manual effort by 50%.
-- Automated key operational workflows, increasing efficiency and reducing manual tasks by 40%.
-- Collaborated with the sales team to implement technology-driven strategies, resulting in a 25% increase in sales closures.
+### **Machine Learning Engineer**  
+**Wateen Telecom**  
+Lahore, Pakistan | Aug 2022 – June 2023  
+- Developed a robust ETL pipeline using BigQuery for predictive sales analysis, improving decision-making and forecasting accuracy.
+- Automated real-time tracking of mall visitors with demographic insights, enhancing customer behavior analysis.
+- Designed and deployed a face verification system, automating employee attendance with 99% accuracy.
+- Built a review classification system, enhancing customer satisfaction by improving product quality.
 
-### 📡 Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
-*May 2023 – Present, Göttingen, Germany (Hybrid)*
+### **Machine Learning Engineer**  
+**Orel Vision**  
+Islamabad, Pakistan | Apr 2021 – Nov 2021  
+- Trained a Masked RCNN model for accurate tree trunk detection, contributing to environmental sustainability.
+- Deployed a YOLO model for real-time crop detection, improving agricultural monitoring.
+- Developed a time-series forecasting model for crop yield prediction.
 
-- Improved a medical platform by integrating knowledge graphs and a fine-tuned LLM-based chatbot, enhancing user query resolution by 30%.
-- Developed specialized web crawlers, increasing research data collection by 70%.
+🎓 **Education**  
 
-### 🎓 Student Tutor @ University of Göttingen
-*Nov 2023 – Mar 2024, Göttingen, Germany (On-site)*
+### **Georg-August-Universität Göttingen**  
+Master of Science in Applied Computer Science  
+Mar 2023 – Sep 2025  
+- GPA: 2.0  
 
-- Supported the Deep Learning for Computer Vision course, conducting practical exercises and mentoring 20 students, leading to a 15% improvement in performance.
+### **National University of Science & Technology**  
+Bachelor of Engineering in Software Engineering  
+Sep 2018 – June 2022  
+- GPA: 1.7  
 
-### 🖥️ Software Engineer @ Huawei GSC Islamabad
-*Aug 2022 – Feb 2023, Islamabad, Pakistan (On-site)*
+🌟 **Projects**  
+- **End-to-End Sales Forecasting System**: Developed a sales forecasting system using ARIMA and LSTM, with a real-time visualization dashboard.
+- **AI-Powered Customer Feedback Analysis System**: Built an NLP system for feedback analysis using BERT, providing insights and trends.
+- **Smart Inventory Management System**: Developed a computer vision system for real-time inventory monitoring using YOLOv5 and IoT cameras.
+- **AI-Driven Fraud Detection System**: Created a machine learning pipeline for detecting fraudulent transactions, deployed via Docker and Kubernetes.
 
-- Led a team to develop automation tools that streamlined operational workflows, reducing manual effort by 40%.
-- Analyzed customer data to predict churn rates, improving retention strategies and reducing churn by 20%.
-
-## 🎓 Education
-
-### Georg-August-Universität Göttingen
-**Master of Science in Applied Computer Science**  
-*Mar 2023 – Sep 2025*
-
-### National University of Science & Technology
-**Bachelor of Engineering in Software Engineering**  
-*Sep 2018 – June 2022*
-
-## 📈 Projects
-
-### End-to-End Sales Forecasting System
-- Developed a comprehensive sales forecasting system using time-series analysis and integrated models like ARIMA and Prophet.
-- Tools Used: Python, AWS, Flask.
-
-### AI-Powered Customer Feedback Analysis System
-- Built an NLP system for analyzing customer feedback using BERT for sentiment analysis and topic modeling.
-- Tools Used: Python, BERT, Django, REST API, AWS.
-
-### Smart Inventory Management System
-- Developed a computer vision system for real-time inventory monitoring using IoT-enabled cameras and YOLOv5.
-- Tools Used: Python, YOLOv5, OpenCV, Flask, AWS IoT.
-
-### AI-Driven Fraud Detection System
-- Created a machine learning pipeline to detect fraudulent transactions, deploying the solution via Docker and Kubernetes.
-- Tools Used: Python, XGBoost, Random Forest, Docker, Kubernetes.
+🛠️ **Technologies**  
+- **Data Science & Machine Learning**: NumPy, Pandas, PyTorch, TensorFlow, Keras, Scikit-learn
+- **Data Engineering**: ETL, Selenium
+- **Data Visualization**: Tableau, Power BI, Matplotlib
+- **Databases & Cloud**: MySQL, AWS, Azure
+- **Version Control**: Docker, Git, GitHub
 
 ---
 
