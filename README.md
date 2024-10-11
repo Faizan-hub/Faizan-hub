@@ -15,3 +15,31 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-hub&show_icons=true&locale=en&layout=compact" alt="faizan-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan-hub&show_icons=true&locale=en" alt="faizan-hub" /></p>
+
+## Experience
+
+### AI Engineer
+**Stealth Startup**  
+*Location* | *Month Year - Present*  
+- Developed and optimized OCR systems, improving text recognition accuracy by 20%.
+- Led a team of interns, facilitating daily standups and sprint planning sessions.
+- Designed and implemented ETL pipelines for data ingestion and processing.
+
+### AI Engineer
+**Wateen Telecom**  
+*Location* | *Month Year - Month Year*  
+- Worked on machine learning models for customer segmentation, increasing targeted marketing efficiency by 15%.
+- Developed a face verification system that enhanced security protocols.
+- Collaborated with cross-functional teams to integrate AI solutions into existing infrastructure.
+
+### Intern
+**Company Name**  
+*Location* | *Month Year - Month Year*  
+- Assisted in the development of a crime prediction model using machine learning techniques.
+- Participated in research projects focusing on deep learning applications in computer vision.
+- Conducted data analysis to support decision-making processes within the team.
+
+### Projects
+- **Fruit Localization and Classification System**: Developed using deep learning with hyperspectral imagery, resulting in a 95% accuracy rate.
+- **Arabic OCR System**: Implemented Transfer Learning on the Tesseract platform, achieving a recognition rate of 90%.
+
