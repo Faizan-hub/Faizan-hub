@@ -94,20 +94,24 @@ I am Faizan Riasat, a dedicated Software Engineer with over two years of experie
 - Built and implemented a time-series forecasting model using Prophet for crop yield predictions, aiding farmers in effective resource management.
 ion.
 
-## Projects
+## 📈 Projects
 
-### End-to-End Sales Forecasting System
-- Developed a complete sales forecasting system using time-series analysis, integrating models such as ARIMA, Prophet, and LSTM to predict sales trends and seasonality.
-- Deployed a real-time dashboard for forecast visualization, enabling inventory optimization and strategic planning.
+### End-to-End Sales Forecasting System  
+- Developed a complete sales forecasting system using time-series analysis, integrating models such as ARIMA, Prophet, and LSTM to predict sales trends and seasonality.  
+- Deployed a real-time dashboard for forecast visualization, enabling inventory optimization and strategic planning.  
+- **Tools Used:** Python, AWS, Flask, ARIMA, Prophet, LSTM  
 
-### AI-Powered Customer Feedback Analysis System
-- Built an NLP-based system for analyzing customer feedback across channels (social media, emails, and surveys), leveraging BERT for sentiment analysis and topic modeling.
-- Deployed a cloud-based REST API for real-time feedback classification and provided a dashboard for sentiment trends and actionable insights.
+### AI-Powered Customer Feedback Analysis System  
+- Built an NLP-based system for analyzing customer feedback across channels (social media, emails, and surveys), leveraging BERT for sentiment analysis and topic modeling.  
+- Deployed a cloud-based REST API for real-time feedback classification and provided a dashboard for sentiment trends and actionable insights.  
+- **Tools Used:** Python, BERT, Django, REST API, AWS  
 
-### Smart Inventory Management System Using Computer Vision and IoT
-- Developed a computer vision system for real-time inventory monitoring using IoT-enabled cameras and YOLOv5, with automated alerts for low stock.
-- Implemented a cloud-based dashboard for tracking inventory, predicting shortages, and optimizing reorder times with SKU-level insights.
+### Smart Inventory Management System Using Computer Vision and IoT  
+- Developed a computer vision system for real-time inventory monitoring using IoT-enabled cameras and YOLOv5, with automated alerts for low stock.  
+- Implemented a cloud-based dashboard for tracking inventory, predicting shortages, and optimizing reorder times with SKU-level insights.  
+- **Tools Used:** Python, YOLOv5, OpenCV, Flask, AWS IoT, Streamlit  
 
-### AI-Driven Fraud Detection System
-- Created a machine learning pipeline to detect fraudulent transactions using supervised learning and anomaly detection algorithms.
-- Deployed the solution via Docker and Kubernetes for scalable, real-time fraud detection, with a custom-built analytics dashboard to track fraud patterns.
+### AI-Driven Fraud Detection System  
+- Created a machine learning pipeline to detect fraudulent transactions using supervised learning and anomaly detection algorithms.  
+- Deployed the solution via Docker and Kubernetes for scalable, real-time fraud detection, with a custom-built analytics dashboard to track fraud patterns.  
+- **Tools Used:** Python, XGBoost, Random Forest, Isolation Forest, Docker, Kubernetes, AWS  
