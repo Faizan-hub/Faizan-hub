@@ -1,36 +1,87 @@
 # Faizan Riasat
 
-👨‍💻 **About Me**  
+## 👨‍💻 About Me
 I am Faizan Riasat, a passionate Software Engineer with over two years of experience in AI, machine learning, and full-stack development. I specialize in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying MLOps frameworks. Currently, I am pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen, Germany.
 
-🌐 **Contact**  
+## 🌐 How to reach me
 - Email: [riasatfaizan468@gmail.com](mailto:riasatfaizan468@gmail.com)  
 - LinkedIn: [Faizan Riasat](https://www.linkedin.com/in/faizan-riasat-36a08b175)
 
-📊 **Current Experience**  
 
-### **Artificial Intelligence Engineer**  
-**Stealth Startup**  
-Heidelberg, Germany | Aug 2023 – May 2024  
-- Developed and deployed Tesseract OCR for extracting text from PDFs and images, integrating a large language model (LLM) to transform unstructured text into structured JSON format for downstream processing.
-- Implemented evaluation metrics such as Average Embedding Score and Extrema Score, optimizing chatbot responses using Google News vectors.
-- Conducted research and comparative analysis on OCR models from Hugging Face and Google Cloud, optimizing model selection for accuracy.
-- Assisted in designing a comprehensive mocking system for end-to-end testing, improving development efficiency.
+## 📊 Current Experience
 
-### **Machine Learning Engineer**  
-**Wateen Telecom**  
-Lahore, Pakistan | Aug 2022 – June 2023  
-- Developed a robust ETL pipeline using BigQuery for predictive sales analysis, improving decision-making and forecasting accuracy.
-- Automated real-time tracking of mall visitors with demographic insights, enhancing customer behavior analysis.
-- Designed and deployed a face verification system, automating employee attendance with 99% accuracy.
-- Built a review classification system, enhancing customer satisfaction by improving product quality.
+### Artificial Intelligence Engineer  
+**Stealth Startup, Heidelberg, Germany**  
+*Aug 2023 – May 2024*  
+- Developed and implemented a Tesseract OCR system to extract text from PDFs and images, integrating a large language model (LLM) to convert unstructured text into structured JSON for downstream applications.
+- Established evaluation metrics, including Average Embedding Score and Extrema Score, utilizing GoogleNews-vectors-negative300 to gauge the effectiveness of chatbot responses.
+- Conducted thorough research and comparative analyses of various OCR models from Hugging Face, Google Cloud Vision, and Microsoft Azure, enhancing model selection for improved accuracy and performance.
+- Collaborated in the design and execution of a comprehensive mocking system for end-to-end (E2E) testing, optimizing the testing workflow and boosting development efficiency.
+- Engaged actively in Agile processes, participating in bi-weekly standups, retrospectives, and sprint planning sessions to ensure project milestones were achieved and features were delivered promptly.
 
-### **Machine Learning Engineer**  
-**Orel Vision**  
-Islamabad, Pakistan | Apr 2021 – Nov 2021  
-- Trained a Masked RCNN model for accurate tree trunk detection, contributing to environmental sustainability.
-- Deployed a YOLO model for real-time crop detection, improving agricultural monitoring.
-- Developed a time-series forecasting model for crop yield prediction.
+### Machine Learning Engineer  
+**Wateen Telecom, Lahore, Pakistan**  
+*Aug 2022 – June 2023*  
+- Engineered a robust ETL pipeline utilizing BigQuery to analyze sales data, facilitating predictive analytics and trend identification, which enhanced decision-making and forecasting accuracy.
+- Implemented a real-time tracking system for shopping mall visitors, utilizing gender detection and age estimation models to derive valuable insights into visitor demographics and foot traffic behavior.
+- Designed and launched a face verification system using AdaFace, achieving 99% accuracy on Streamlit to automate employee attendance management.
+- Developed a review classification system that categorized customer feedback, resulting in a 10% increase in customer satisfaction through improvements in product and service quality.
+- Automated the extraction and storage of electricity bill data using Selenium, completely eliminating manual data entry and reducing processing time by 100%.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Machine Learning Engineer  
+**Orel Vision, Islamabad, Pakistan**  
+*Apr 2021 – Nov 2021*  
+- Trained and optimized a Masked R-CNN model for precise detection of tree trunks, calculating essential forestry metrics such as diameter at breast height, above-ground biomass, and carbon content with only a 2% margin of error, supporting environmental sustainability initiatives.
+- Developed and deployed a YOLO model on Jetson Nano for real-time detection of various crop types, enhancing agricultural monitoring and enabling prompt assessment of crop health and growth.
+- Built and implemented a time-series forecasting model using Prophet for crop yield predictions, aiding farmers in effective resource management.
+ion.
+
+##  💻 Tech Stack:
+
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%73777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
+
+### Data Engineering & Analysis
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+
+### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+
+### Software Version Control & Collaboration
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### Data Visualization
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
