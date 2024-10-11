@@ -1,45 +1,105 @@
-<h1 align="center">Hi 👋, I'm Faizan Riasat</h1>
-<h3 align="center">A dedicated Data Scientist and AI Engineer with a passion for Machine Learning, based in Germany</h3>
+# 👨‍💻 About Me
 
-- 🔭 I’m currently working on **on OCR-D**
+I am Faizan Riasat, a passionate Software Engineer with over two years of experience specializing in AI, machine learning, and full-stack development. I am currently pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen. My expertise lies in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying MLOps frameworks. I have successfully improved customer satisfaction by 10% through predictive analytics at Wateen Telecom.
 
-- 📫 How to reach me **riasatfaizan468@gmail.com**
+## 🌐 Contact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Email**: [riasatfaizan468@gmail.com](mailto:riasatfaizan468@gmail.com)
+- **LinkedIn**: [Faizan Riasat](https://www.linkedin.com/in/faizan-riasat-36a08b175)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💻 Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-hub&show_icons=true&locale=en&layout=compact" alt="faizan-hub" /></p>
+### Programming Languages
+- Python
+- JavaScript
+- Java
+- C++
+- MATLAB
+- R
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan-hub&show_icons=true&locale=en" alt="faizan-hub" /></p>
+### Web Development
+- Django, Django REST
+- Express, Node.js
+- Vue.js
+- Bootstrap
+- HTML5, CSS3
 
-## Experience
+### Data Science
+- TensorFlow, PyTorch
+- Scikit-learn, Pandas, Numpy
+- OpenCV
+- Power BI, Matplotlib, Seaborn, Tableau
+- Large Language Models
 
-### AI Engineer
-**Stealth Startup**  
-*Location* | *Month Year - Present*  
-- Developed and optimized OCR systems, improving text recognition accuracy by 20%.
-- Led a team of interns, facilitating daily standups and sprint planning sessions.
-- Designed and implemented ETL pipelines for data ingestion and processing.
+### Databases
+- MySQL, PostgreSQL
+- SQLite, MongoDB
+- Firebase
 
-### AI Engineer
-**Wateen Telecom**  
-*Location* | *Month Year - Month Year*  
-- Worked on machine learning models for customer segmentation, increasing targeted marketing efficiency by 15%.
-- Developed a face verification system that enhanced security protocols.
-- Collaborated with cross-functional teams to integrate AI solutions into existing infrastructure.
+### Version Control and Tools
+- Git, GitHub, GitLab
+- Docker, AWS, Azure
+- SQL, REST API
+- Postman, Markdown
 
-### Intern
-**Company Name**  
-*Location* | *Month Year - Month Year*  
-- Assisted in the development of a crime prediction model using machine learning techniques.
-- Participated in research projects focusing on deep learning applications in computer vision.
-- Conducted data analysis to support decision-making processes within the team.
+### IDEs and Editors
+- Visual Studio Code
+- PyCharm
 
-### Projects
-- **Fruit Localization and Classification System**: Developed using deep learning with hyperspectral imagery, resulting in a 95% accuracy rate.
-- **Arabic OCR System**: Implemented Transfer Learning on the Tesseract platform, achieving a recognition rate of 90%.
+## 📊 Current Experience
 
+### 🖥️ Software Engineer @ SaniSure (Part-time)
+*Aug 2024 – Present, Göttingen, Germany (Hybrid)*
+
+- Developed a data extraction system from PowerBI, optimizing material identification and automating pricing document creation, reducing manual effort by 50%.
+- Automated key operational workflows, increasing efficiency and reducing manual tasks by 40%.
+- Collaborated with the sales team to implement technology-driven strategies, resulting in a 25% increase in sales closures.
+
+### 📡 Research Assistant @ Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)
+*May 2023 – Present, Göttingen, Germany (Hybrid)*
+
+- Improved a medical platform by integrating knowledge graphs and a fine-tuned LLM-based chatbot, enhancing user query resolution by 30%.
+- Developed specialized web crawlers, increasing research data collection by 70%.
+
+### 🎓 Student Tutor @ University of Göttingen
+*Nov 2023 – Mar 2024, Göttingen, Germany (On-site)*
+
+- Supported the Deep Learning for Computer Vision course, conducting practical exercises and mentoring 20 students, leading to a 15% improvement in performance.
+
+### 🖥️ Software Engineer @ Huawei GSC Islamabad
+*Aug 2022 – Feb 2023, Islamabad, Pakistan (On-site)*
+
+- Led a team to develop automation tools that streamlined operational workflows, reducing manual effort by 40%.
+- Analyzed customer data to predict churn rates, improving retention strategies and reducing churn by 20%.
+
+## 🎓 Education
+
+### Georg-August-Universität Göttingen
+**Master of Science in Applied Computer Science**  
+*Mar 2023 – Sep 2025*
+
+### National University of Science & Technology
+**Bachelor of Engineering in Software Engineering**  
+*Sep 2018 – June 2022*
+
+## 📈 Projects
+
+### End-to-End Sales Forecasting System
+- Developed a comprehensive sales forecasting system using time-series analysis and integrated models like ARIMA and Prophet.
+- Tools Used: Python, AWS, Flask.
+
+### AI-Powered Customer Feedback Analysis System
+- Built an NLP system for analyzing customer feedback using BERT for sentiment analysis and topic modeling.
+- Tools Used: Python, BERT, Django, REST API, AWS.
+
+### Smart Inventory Management System
+- Developed a computer vision system for real-time inventory monitoring using IoT-enabled cameras and YOLOv5.
+- Tools Used: Python, YOLOv5, OpenCV, Flask, AWS IoT.
+
+### AI-Driven Fraud Detection System
+- Created a machine learning pipeline to detect fraudulent transactions, deploying the solution via Docker and Kubernetes.
+- Tools Used: Python, XGBoost, Random Forest, Docker, Kubernetes.
+
+---
+
+Thank you for visiting my profile!
