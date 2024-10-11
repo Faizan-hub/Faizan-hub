@@ -1,7 +1,10 @@
 # Faizan Riasat
 
+## 🌟 Welcome to My Profile!
+
 ## 👨‍💻 About Me
-I am Faizan Riasat, a passionate Software Engineer with over two years of experience in AI, machine learning, and full-stack development. I specialize in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying MLOps frameworks. Currently, I am pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen, Germany.
+I am Faizan Riasat, a dedicated Software Engineer with over two years of experience in AI, machine learning, and full-stack development. My passion lies in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying robust MLOps frameworks. Currently, I am pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen, Germany, where I continually seek to expand my knowledge and skills in cutting-edge technologies. I thrive on tackling complex challenges and delivering innovative solutions that make a difference.
+
 
 ## 🌐 How to reach me
 - Email: [riasatfaizan468@gmail.com](mailto:riasatfaizan468@gmail.com)  
@@ -85,3 +88,20 @@ ion.
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+## Projects
+
+### End-to-End Sales Forecasting System
+- Developed a complete sales forecasting system using time-series analysis, integrating models such as ARIMA, Prophet, and LSTM to predict sales trends and seasonality.
+- Deployed a real-time dashboard for forecast visualization, enabling inventory optimization and strategic planning.
+
+### AI-Powered Customer Feedback Analysis System
+- Built an NLP-based system for analyzing customer feedback across channels (social media, emails, and surveys), leveraging BERT for sentiment analysis and topic modeling.
+- Deployed a cloud-based REST API for real-time feedback classification and provided a dashboard for sentiment trends and actionable insights.
+
+### Smart Inventory Management System Using Computer Vision and IoT
+- Developed a computer vision system for real-time inventory monitoring using IoT-enabled cameras and YOLOv5, with automated alerts for low stock.
+- Implemented a cloud-based dashboard for tracking inventory, predicting shortages, and optimizing reorder times with SKU-level insights.
+
+### AI-Driven Fraud Detection System
+- Created a machine learning pipeline to detect fraudulent transactions using supervised learning and anomaly detection algorithms.
+- Deployed the solution via Docker and Kubernetes for scalable, real-time fraud detection, with a custom-built analytics dashboard to track fraud patterns.
