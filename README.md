@@ -78,7 +78,7 @@ I am Faizan Riasat, a dedicated Software Engineer with over two years of experie
 - Engaged actively in Agile processes, participating in bi-weekly standups, retrospectives, and sprint planning sessions to ensure project milestones were achieved and features were delivered promptly.
 
 ### Machine Learning Engineer  
-**Wateen Telecom, Lahore, Pakistan**  
+**Wateen Telecom, Remote**  
 *Aug 2022 – June 2023*  
 - Engineered a robust ETL pipeline utilizing BigQuery to analyze sales data, facilitating predictive analytics and trend identification, which enhanced decision-making and forecasting accuracy.
 - Implemented a real-time tracking system for shopping mall visitors, utilizing gender detection and age estimation models to derive valuable insights into visitor demographics and foot traffic behavior.
@@ -87,8 +87,8 @@ I am Faizan Riasat, a dedicated Software Engineer with over two years of experie
 - Automated the extraction and storage of electricity bill data using Selenium, completely eliminating manual data entry and reducing processing time by 100%.
 
 ### Machine Learning Engineer  
-**Orel Vision, Islamabad, Pakistan**  
-*Apr 2021 – Nov 2021*  
+**Orel Vision, Remote**  
+*Apr 2021 – Feb 2022*  
 - Trained and optimized a Masked R-CNN model for precise detection of tree trunks, calculating essential forestry metrics such as diameter at breast height, above-ground biomass, and carbon content with only a 2% margin of error, supporting environmental sustainability initiatives.
 - Developed and deployed a YOLO model on Jetson Nano for real-time detection of various crop types, enhancing agricultural monitoring and enabling prompt assessment of crop health and growth.
 - Built and implemented a time-series forecasting model using Prophet for crop yield predictions, aiding farmers in effective resource management.
