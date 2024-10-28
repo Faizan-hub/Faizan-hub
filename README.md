@@ -62,12 +62,6 @@ I am Faizan Riasat, a dedicated Software Engineer with over two years of experie
 
 ## 📊 Current Experience
 
-### Working Student  
-**The University of Göttingen**  
-*Sep 2024 – Present*  
-- Developed and implemented evaluation metrics to assess the accuracy and reliability of OCR-D outputs, enhancing text recognition and data extraction processes in digitization projects.
-
-
 ### Artificial Intelligence Engineer  
 **Stealth Startup, Heidelberg, Germany**  
 *Aug 2023 – May 2024*  
