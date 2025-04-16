@@ -17,14 +17,11 @@ complex analyses. Passionate about driving data-driven decision-making and busin
 ##  💻 Tech Stack:
 
 ### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%73777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
 
 
 
@@ -63,33 +60,6 @@ complex analyses. Passionate about driving data-driven decision-making and busin
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 📊 Current Experience
-
-### Artificial Intelligence Engineer  
-**Stealth Startup, Heidelberg, Germany**  
-*Aug 2023 – May 2024*  
-- Developed and implemented a Tesseract OCR system to extract text from PDFs and images, integrating a large language model (LLM) to convert unstructured text into structured JSON for downstream applications.
-- Established evaluation metrics, including Average Embedding Score and Extrema Score, utilizing GoogleNews-vectors-negative300 to gauge the effectiveness of chatbot responses.
-- Conducted thorough research and comparative analyses of various OCR models from Hugging Face, Google Cloud Vision, and Microsoft Azure, enhancing model selection for improved accuracy and performance.
-- Collaborated in the design and execution of a comprehensive mocking system for end-to-end (E2E) testing, optimizing the testing workflow and boosting development efficiency.
-- Engaged actively in Agile processes, participating in bi-weekly standups, retrospectives, and sprint planning sessions to ensure project milestones were achieved and features were delivered promptly.
-
-### Machine Learning Engineer  
-**Wateen Telecom, Remote**  
-*Aug 2022 – June 2023*  
-- Engineered a robust ETL pipeline utilizing BigQuery to analyze sales data, facilitating predictive analytics and trend identification, which enhanced decision-making and forecasting accuracy.
-- Implemented a real-time tracking system for shopping mall visitors, utilizing gender detection and age estimation models to derive valuable insights into visitor demographics and foot traffic behavior.
-- Designed and launched a face verification system using AdaFace, achieving 99% accuracy on Streamlit to automate employee attendance management.
-- Developed a review classification system that categorized customer feedback, resulting in a 10% increase in customer satisfaction through improvements in product and service quality.
-- Automated the extraction and storage of electricity bill data using Selenium, completely eliminating manual data entry and reducing processing time by 100%.
-
-### Machine Learning Engineer  
-**Orel Vision, Remote**  
-*Apr 2021 – Feb 2022*  
-- Trained and optimized a Masked R-CNN model for precise detection of tree trunks, calculating essential forestry metrics such as diameter at breast height, above-ground biomass, and carbon content with only a 2% margin of error, supporting environmental sustainability initiatives.
-- Developed and deployed a YOLO model on Jetson Nano for real-time detection of various crop types, enhancing agricultural monitoring and enabling prompt assessment of crop health and growth.
-- Built and implemented a time-series forecasting model using Prophet for crop yield predictions, aiding farmers in effective resource management.
-ion.
 
 ## 📈 Projects
 
