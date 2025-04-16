@@ -3,7 +3,10 @@
 ## 🌟 Welcome to My Profile!
 
 ## 👨‍💻 About Me
-I am Faizan Riasat, a dedicated Software Engineer with over two years of experience in AI, machine learning, and full-stack development. My passion lies in designing scalable AI/ML pipelines, optimizing OCR systems, and deploying robust MLOps frameworks. Currently, I am pursuing my Master's in Applied Computer Science at Georg-August-Universität Göttingen, Germany, where I continually seek to expand my knowledge and skills in cutting-edge technologies. I thrive on tackling complex challenges and delivering innovative solutions that make a difference.
+Machine Learning Engineer and Data Scientist with 3+ years of experience in predictive modeling, NLP, and
+scalable AI/ML pipelines. Proficient in Python, TensorFlow, and PyTorch, with expertise in cloud deployment
+and data visualization. Skilled at transforming data into actionable insights and effectively communicating
+complex analyses. Passionate about driving data-driven decision-making and business impact.
 
 
 ## 🌐 How to reach me
