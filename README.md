@@ -61,7 +61,7 @@ complex analyses. Passionate about driving data-driven decision-making and busin
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## 📈 Projects
+## 📈 Personal Projects
 
 ### End-to-End Sales Forecasting System  
 - Developed a complete sales forecasting system using time-series analysis, integrating models such as ARIMA, Prophet, and LSTM to predict sales trends and seasonality.  
